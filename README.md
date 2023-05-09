@@ -5,7 +5,7 @@
 
 To run the software you use the program name in the command line with two arguments which are: the file you want to chain, and its intended directory.
 
-./blockchain <filename> <output_directory>
+###### ./blockchain <file_name> <output_directory>
 
 There will be a test file provided with its output directory as well, but this will work with any text file and can be outputted to any directory.
 
